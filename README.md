@@ -46,3 +46,9 @@ git commit -m "Creando mi primer commit"
 git log
 
 ```
+
+* Para poder ver el detalle de un commit especifico:
+```bash
+git show iddelcommit
+
+```
